@@ -104,6 +104,10 @@
   body {
     font-family: var(--font-body);
   }
+
+  .font-handwriting {
+    font-family: var(--font-display);
+  }
 }
 
 @layer base {
